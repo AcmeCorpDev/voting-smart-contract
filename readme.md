@@ -4,7 +4,7 @@
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/devpavan04/eth-vote
+git clone https://github.com/AcmeCorpDev/voting-smart-contract
 ```
 
 ### 2. Install dependencies
